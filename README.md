@@ -23,6 +23,9 @@ Think41/
 └── README.md                         # This file
 ```
 
+
+### Download Dataset
+`https://github.com/recruit41/ecommerce-dataset`
 ### Database Schema
 
 The database consists of 6 main tables with proper relationships:
